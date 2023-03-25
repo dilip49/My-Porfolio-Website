@@ -40,18 +40,15 @@ const About = () => {
     <>
       <motion.div variants={textVariant()}>
         <p className={styles.sectionSubText}>Introduction</p>
-        <h2 className={styles.sectionHeadText}>Overview.</h2>
+        <h2 className={styles.sectionHeadText}>Overview</h2>
       </motion.div>
 
       <motion.p
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Hi there, I'm Dilip, a Full-Stack Developer with 4+ years of experience in Software development. I specialize in Ruby, Ruby on rails, React js, Javascript, MySQL, PostgreSQL, GIT, AWS, Google Cloud, HTML/CSS, Docker, Kubernetes and have worked on projects for clients in various industries, including e-commerce, artwork marketplace, social networking sites and digit solutions.
-
-        Throughout my career, I've honed my skills in ruby on rails and react js and have developed a strong understanding of Ruby, Ruby on rails, React js and MySQL. I'm always eager to learn more and stay up-to-date with the latest trends and best practices in my field.
-
-        When I'm not working, I enjoy cooking, coding and watching online content. 
+        Hi there, I'm Dilip, a Full-Stack Developer with 4+ years of experience in Software development. I specialize in Ruby, Ruby on rails, React js, Javascript, MySQL, PostgreSQL, GIT, AWS, Google Cloud, HTML/CSS, Docker, Kubernetes and have worked on projects for clients in various industries, including e-commerce, artwork marketplace, social networking sites and digital solutions.
+        Throughout my career, I've honed my skills in web development and have developed a strong understanding of HTML, CSS, Ruby, Ruby on rails, React js and MySQL. I'm always eager to learn more and stay up-to-date with the latest trends and best practices in my field.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
