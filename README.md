@@ -24,44 +24,9 @@
 
 <!-- About the Project -->
 ## :star2: About the Project
-
-<div align="center">
-  <img src="readme_assets/3d-portfolio.png" height="auto" width="90%"/>
-</div>
-
 <br />
 
 This repository houses an well-designed and functional Developer Portfolio Website consisting Navbar, Hero, Overview, Work Experience, Technologies, Projects, Testimonials and Contact sections built with React & Three.js using TailwindCSS ⏭
-
-<!-- Folder Structure -->
-### :bangbang: Folder Structure
-
-Here is the folder structure of 3D-Portfolio.
-```bash
-Threejs_3D_Portfolio/
-|- public/
-|- src/
-  |-- assets/
-  |-- components/
-  |-- constants/
-  |-- hoc/
-  |-- utils/
-  |-- App.jsx
-  |-- index.css
-  |-- main.jsx
-  |-- styles.js
-|- postcss.config.cjs
-|- tailwind.config.cjs
-|- vite.config.js
-```
-<br />
-
-<!-- TechStack -->
-### :space_invader: Tech Stack
-
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,threejs)](https://skillicons.dev)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Getting Started -->
 ## :toolbox: Getting Started
@@ -73,12 +38,12 @@ Threejs_3D_Portfolio/
 Download or clone this repo by using the link below:
 
 ```bash
- https://github.com/ladunjexa/Threejs_3D_Portfolio
+ https://github.com/dilip49/My-Porfolio-Website.git
 ```
 
 #### Step 2:
 
-3D-Portfolio using NPM (Node Package Manager), therefore, make sure that Node.js is installed by execute the following command in console:
+Portfolio using NPM (Node Package Manager), therefore, make sure that Node.js is installed by execute the following command in console:
 
 ```bash
   node -v
@@ -127,4 +92,3 @@ At the main folder execute the following command in console to run the developme
   npm run dev
 ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
