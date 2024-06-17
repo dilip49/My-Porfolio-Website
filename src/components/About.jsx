@@ -47,7 +47,7 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        Hi there, I'm Dilip, a Full-Stack Developer with 4+ years of experience in Software development. I specialize in Ruby, Ruby on rails, React js, Javascript, MySQL, PostgreSQL, GIT, AWS, Google Cloud, HTML/CSS, Docker, Kubernetes and have worked on projects for clients in various industries, including e-commerce, artwork marketplace, social networking sites and digital solutions.
+        Hi there, I'm Dilip, a Full-Stack Developer with 5+ years of experience in Software development. I specialize in Ruby, Ruby on rails, React js, Javascript, MySQL, PostgreSQL, GIT, AWS, Google Cloud, HTML/CSS, Docker, Kubernetes and have worked on projects for clients in various industries, including e-commerce, artwork marketplace, social networking sites and digital solutions.
         Throughout my career, I've honed my skills in web development and have developed a strong understanding of HTML, CSS, Ruby, Ruby on rails, React js and MySQL. I'm always eager to learn more and stay up-to-date with the latest trends and best practices in my field.
       </motion.p>
 
